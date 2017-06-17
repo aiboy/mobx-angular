@@ -1,2 +1,2 @@
-# mobx-angular2
+# mobx-angular
 will be uploaded this weekend
